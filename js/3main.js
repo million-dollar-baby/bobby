@@ -7,7 +7,7 @@ function initialize() {
 }
 
 function loadImages() {
-    var t = 120; //Change this to Number of Images in the folder
+    var t = 150; //Change this to Number of Images in the folder
     var i = 1;
     for(var i=1; i<t;i++){
         $('#photos').append('<div id="img-container"><img id="' + i + '" onmouseleave="hideInfo(' + i + ')"  onmouseover="showInfo(' + i +')" onmousedown="showImg(' + i + ')"src="3images/' + i + '.jpg" onError="this.remove();"/></div>');
