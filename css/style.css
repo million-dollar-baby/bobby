@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #fh5co-header .nav li.active a {
-  color: red;
+  color: white;
   background: transparent;
   position: relative;
 }
@@ -718,7 +718,7 @@ input[type="text"] {
 
 .fh5co-social-icons a {
   padding: 4px 8px;
-  color: rgba(0, 0, 0, 0.7);
+  color: #ffffff;
 }
 .fh5co-social-icons a i {
   font-size: 34px;
