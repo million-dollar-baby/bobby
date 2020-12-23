@@ -13,12 +13,12 @@
 
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
 body {
-  font-family: "Courier New";
+  /* font-family: "Courier New"; */
   line-height: 1.8;
   font-size: 20px;
   background: #000000;
@@ -26,14 +26,14 @@ body {
 }
 
 a {
-  color: #fff;
+  color: #fcfcfc;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover {
   text-decoration: underline !important;
-  color: #000000 !important;
+  color: yellow; !important;
 }
 a:focus, a:active {
   outline: none;
@@ -41,19 +41,19 @@ a:focus, a:active {
 
 p {
   margin-bottom: 1.5em;
-  font-size: 16px;
+  font-size: 18px;
   color: #fff;
   font-weight: 300;
-  font-family: "Courier New";
+  /* font-family: "Courier New"; */
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: #fff;
-  font-family: 'Quattrocento', serif;
+  /* font-family: 'Quattrocento', serif; */
 
 
   font-weight: 400;
-  margin: 0 0 30px 0;
+  line-height: 1.2em;
 }
 
 ::-webkit-selection {
@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 52px;
   height: 30px;
   padding: 0;
-  font-family: 'Quattrocento', serif;
+  /* font-family: 'Quattrocento', serif; */
   font-size: 30px;
   font-weight: bold;
   text-transform: uppercase;
@@ -147,7 +147,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 0;
 }
 #fh5co-header .nav li a {
-  font-family: "Courier New";
+  /* font-family: "Courier New"; */
   color: rgba(255, 255, 255, 0.69);;
   position: relative;
   font-weight: 400;
@@ -734,9 +734,9 @@ input[type="text"] {
 }
 .heading-section h3 {
   font-size: 50px;
-  
+
   letter-spacing: 2px;
-  
+
   position: relative;
   color: #000000;
 }
