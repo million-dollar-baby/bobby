@@ -1,0 +1,14 @@
+#footer{
+  background-color: #fcfcfc;
+  padding: 2% 10%;
+}
+
+.fa{
+  padding: 10px;
+  float: right;
+}
+
+.footer-text{
+  padding: 10px;
+  font-size: 14px;
+}

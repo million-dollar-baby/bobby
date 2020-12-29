@@ -816,4 +816,15 @@ input[type="text"] {
   opacity: 0;
 }
 
-/*# sourceMappingURL=style.css.map */
+
+/* New CSS Here */
+
+.navbar{
+  padding: 3rem;
+  background-color: #000;
+}
+
+.navbar-brand{
+  font-size: 29px;
+  color: #fcfcfc;
+}
