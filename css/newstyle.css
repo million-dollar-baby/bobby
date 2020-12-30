@@ -28,6 +28,24 @@ section{
 }
 
 .navbar{
-  padding: 2% 0;
+  padding: 2% 1;
   background-color: #000000;
+}
+
+h1,h2,h3{
+font-family: 'Montserrat', sans-serif;
+color: #433d3c;
+}
+
+a{
+  color: #c7753d;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.btn{
+  background-color: #c7753d;
+  font-size: 14px;
+  text-transform: uppercase;
+  border: none;
 }
